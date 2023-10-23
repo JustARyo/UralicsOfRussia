@@ -7,6 +7,7 @@
 ### Medium potential, has semi-active advanced learners:
 - Udmurt
 - Livvi Karelian
+- Meadow Mari
 - Northern Mansi
 - Komi-Zyrian
 - Komi-Permyak

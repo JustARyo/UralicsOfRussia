@@ -28,7 +28,7 @@
 - Khanty
 - Mansi
   
-### Out of classification:
+### Out of the classification:
 - Meryan
 
 ## Samoyedic languages

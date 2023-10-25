@@ -11,12 +11,12 @@ Only four of Eastern Sami languages starting with Skolt are located in Russia an
 # Materials
 
 ## Skolt Sami
-Consists of Standard and Notozero Skolt, traditionally spoken in Kola Peninsula.
+Consists of Standard and Notozero Skolt (dialect traditionally spoken in Kola Peninsula).
 - ### **Standard Skolt**
   - 📚 [Courses, teaching books and videos](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BSkolt%5D%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BSkolt%5D%20Reading%20etc.md)
 - ### **Notozero dialect**
-  - 👨‍🏫 Learning materials
+  - 👨‍🏫 [Learning materials](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BNotozero%20Skolt%5D%20Learning%20etc.md)
 
 ![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/1d33f882-d7be-4ded-8185-1718c13954fb)
 

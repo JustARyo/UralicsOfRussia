@@ -1,10 +1,12 @@
 # Sami languages
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/bfe5da57-798e-4f8b-890c-0d9bbfae6846)
+
+
 Being the closest to Finnic languages, Sami language group consists of two branches:
 - **Western** (South, Ume, Pite, Lule and Northern Sami)
 - **Eastern** (Inari, Skolt, Akkala, Kildin and Ter Sami)
 Only four of Eastern Sami languages starting with Skolt are located in Russia and thus covered by our server.
-
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/bfe5da57-798e-4f8b-890c-0d9bbfae6846)
 
 ***
 

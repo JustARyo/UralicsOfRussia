@@ -10,7 +10,7 @@ Only four of Eastern Sami languages starting with Skolt are located in Russia an
 
 ***
 
-# Materials
+# 📖 Materials
 
 ## Skolt Sami
 Consists of Standard and Notozero Skolt (dialect traditionally spoken in Kola Peninsula).

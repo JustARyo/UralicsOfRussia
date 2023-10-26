@@ -1,4 +1,4 @@
-# Current situation with the most active languages:
+# 📈 Current situation with the most active languages:
 ### Huge potential, has active advanced learners/speakers or several of them:
 - Kildin Sami
 - Veps
@@ -20,7 +20,7 @@
 ![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/5e423f7d-78ae-449d-a289-2c711e702d1e)
 ### Finno-Permic:
 - [Samic](https://github.com/JustARyo/UralicsOfRussia/blob/main/materials/Finno-Ugric%20branch/Sami.md)
-- Balto-Finnic
+- [Balto-Finnic](https://github.com/JustARyo/UralicsOfRussia/blob/main/materials/Finno-Ugric%20branch/Balto-Finnic.md)
 - Mordvinic
 - Mari
 - Permic

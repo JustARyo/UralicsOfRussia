@@ -10,3 +10,13 @@
 
 ***
 ***
+
+# 🇷🇺 Группа «Pajatammo karjalakse/Поем по-карельски» — караоке-версии известных песен на ливвиковском
+### 🇬🇧 VK-community "Pajatammo karjalakse/Singing in Karelian" — karaoke versions of famous songs in Livvi Karelian
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/1db2baa6-3cc0-48ab-be65-56f007aac98f)
+
+> 🔗 https://vk.com/pajatammo_karjalakse
+
+***
+***

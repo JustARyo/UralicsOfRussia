@@ -13,7 +13,9 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
   - Standard Estonian and Northern dialects
   - Southern Estonian dialects (including Võro, Seto, Mulgi, Tartu dialects; now extinct Leivu, Lutsi and Kraasna dialects)
   - Livonian (including Courland and Salaca dialects)
-  - Votic (including Krevinian dialect)
+  - Votic (including Krevinian and Kukkuzi dialects)
+
+> NB! This server covers _Russian-side_ languages and dialects
 
 
 ***

@@ -73,9 +73,6 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 - ### Standard
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()
-- ### Krevinian
-  - 📚 [Courses, teaching books and videos]()
-  - 🍿 [Reading, watching and listening]()
 - ### Kukkuzi
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()

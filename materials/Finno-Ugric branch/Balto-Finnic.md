@@ -45,21 +45,27 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 - 📚 [Courses, teaching books and videos]()
 - 🍿 [Reading, watching and listening]()
 
-## Ingrian (Ingrian Finnish)
+## Russian-side Finnish
 ![flag-ingrian](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/09b2fbd5-5d56-4fa0-b4b2-0264540fa0bd)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- ### Ingrian (Ingrian Finnish)
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Isthmus (Kannas) Karelian
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Rosona Finnish
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Siberian Finnish
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
 
 ## Izhorian
 ![flag-izhorian](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/136a6d8f-3970-4ec8-885b-64a9a54c86af)
 
-- ### Standard
-  - 📚 [Courses, teaching books and videos]()
-  - 🍿 [Reading, watching and listening]()
-- ### Kukkuzi
-  - 📚 [Courses, teaching books and videos]()
-  - 🍿 [Reading, watching and listening]()
+- 📚 [Courses, teaching books and videos]()
+- 🍿 [Reading, watching and listening]()
 
 ## Votic
 ![flag-votic](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/8f017f9e-0481-4c80-9536-6fce21c92de8)
@@ -68,6 +74,9 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()
 - ### Krevinian
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Kukkuzi
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()
 

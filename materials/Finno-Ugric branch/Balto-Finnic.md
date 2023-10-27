@@ -54,17 +54,32 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 ## Izhorian
 ![flag-izhorian](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/136a6d8f-3970-4ec8-885b-64a9a54c86af)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- ### Standard
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Kukkuzi
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
 
 ## Votic
 ![flag-votic](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/8f017f9e-0481-4c80-9536-6fce21c92de8)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- ### Standard
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Krevinian
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
 
 ## Siberian Estonian, Seto, Kraasna
 ![flag-seto](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/d71d2702-5039-4a23-8ca1-39e353c224c3)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- ### Siberian Estonian
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Seto
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()
+- ### Kraasna
+  - 📚 [Courses, teaching books and videos]()
+  - 🍿 [Reading, watching and listening]()

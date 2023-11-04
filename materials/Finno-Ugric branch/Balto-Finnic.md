@@ -66,8 +66,8 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 ## Izhorian
 ![flag-izhorian](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/136a6d8f-3970-4ec8-885b-64a9a54c86af)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- 📚 [Courses, teaching books and videos](meta/\[Izhorian\]%20Courses%20etc.md)
+- 🍿 [Reading, watching and listening](meta/\[Izhorian\]%20Reading%20etc.md)
 
 ## Votic
 ![flag-votic](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/8f017f9e-0481-4c80-9536-6fce21c92de8)
@@ -86,7 +86,7 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()
 - ### Seto
-  - 📚 [Courses, teaching books and videos](meta/\[Seto\]%20Reading%20etc.md)
+  - 📚 [Courses, teaching books and videos](meta/\[Seto\]%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening]()
 - ### Kraasna
   - 📚 [Courses, teaching books and videos]()

@@ -12,7 +12,7 @@ Only four of Eastern Sami languages starting with Skolt are located in Russia an
 
 # 📖 Materials
 
-## Multiple Sami languages of Kola
+## Multiple Sami languages of Kola Peninsula
 - 📚 [Materials](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BGeneral%20Kola%5D%20Materials%20etc.md)
 
 ## Skolt Sami

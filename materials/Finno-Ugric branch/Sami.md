@@ -48,4 +48,4 @@ The easternmost Sami language spoken by only 2 people. However, there are ethnic
 ***
 
 ## Multiple Kola Sami languages
-- 📚 [Materials](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BGeneral%20Kola%5D%20Materials%20etc.md)
+- 📚 [Materials](https://github.com/JustARyo/LearnEasternSami/blob/main/meta/%5BGeneral%20Kola%5D%20Materials.md)

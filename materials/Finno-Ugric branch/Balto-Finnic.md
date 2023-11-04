@@ -86,7 +86,7 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
   - 📚 [Courses, teaching books and videos]()
   - 🍿 [Reading, watching and listening]()
 - ### Seto
-  - 📚 [Courses, teaching books and videos]()
+  - 📚 [Courses, teaching books and videos](meta/\[Seto\]%20Reading%20etc.md)
   - 🍿 [Reading, watching and listening]()
 - ### Kraasna
   - 📚 [Courses, teaching books and videos]()

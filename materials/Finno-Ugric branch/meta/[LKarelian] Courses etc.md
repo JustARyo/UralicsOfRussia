@@ -21,7 +21,8 @@
 ![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/403d6a0b-4f2f-4cd8-a65b-416b84ac3a91)
 
 > 🔗 **Playlist:** https://www.youtube.com/watch?v=UzgOxTVOXtU&list=PLJeFrMvvnDhWbTpPQ_vmLNX_uMulwizMO
-> 🔗 **Project page:** https://vk.com/legkoskazatt
+>
+>  🔗 **Project page:** https://vk.com/legkoskazatt
 
 ***
 ***

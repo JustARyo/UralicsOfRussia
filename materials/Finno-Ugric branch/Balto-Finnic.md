@@ -34,6 +34,13 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 - ### **Livvi Karelian**
   - 📚 [Courses, teaching books and videos](meta/\[LKarelian\]%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening](meta/\[LKarelian\]%20Reading%20etc.md)
+
+---
+
+- ### **Multiple dialects/languages**
+  - 📚 [Materials](meta/\[GKarelian\]%20Materials.md)
+
+---
  
 ## Ludic
 ![flag-ludic](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/690ea14e-9a8a-46af-8e92-68188097d953)

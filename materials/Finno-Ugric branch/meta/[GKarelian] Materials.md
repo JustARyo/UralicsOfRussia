@@ -14,3 +14,14 @@
 
 ***
 ***
+
+# 🇷🇺 Бесплатные курсы **ливвиковского** и **беломорского** карельского языка (и вепсского)
+### 🇬🇧 Free courses of **Livvi** and **Viena** Karelian (and Vepsian)
+
+**In:** 🇷🇺
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/4c8250e6-650f-423c-9bad-b2af87fca490)
+
+> 🧑‍🏫 https://omamedia.ru/mediacenter/learn-lang/
+
+***

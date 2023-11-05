@@ -26,13 +26,13 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 ![flag-karelian-triple](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/29aedc7d-4812-4227-be48-b567dc51e57b)
 
 - ### **Northern (Viena) Karelian**
-  - 📚 [Courses, teaching books and videos]()
+  - 📚 [Courses, teaching books and videos](meta/\[NKarelian\]%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening](meta/\[NKarelian\]%20Reading%20etc.md)
 - ### **Southern (Suvi) Karelian (+ Tver)**
-  - 📚 [Courses, teaching books and videos]()
+  - 📚 [Courses, teaching books and videos](meta/\[SKarelian\]%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening](meta/\[SKarelian\]%20Reading%20etc.md)
 - ### **Livvi Karelian**
-  - 📚 [Courses, teaching books and videos]()
+  - 📚 [Courses, teaching books and videos](meta/\[LKarelian\]%20Courses%20etc.md)
   - 🍿 [Reading, watching and listening](meta/\[LKarelian\]%20Reading%20etc.md)
  
 ## Ludic

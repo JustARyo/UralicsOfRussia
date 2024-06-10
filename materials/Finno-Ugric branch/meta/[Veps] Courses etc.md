@@ -1,63 +1,56 @@
-***
-***
-
-# 🇷🇺 Telegram канал о вепсской поэзии с переводами на русский
-
-**In:** 🇷🇺 🇻
-
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/a68c35e2-c0ba-46db-9d2a-adc88540445c)
-
-> 🔗 https://t.me/Vepsan_rizakaz
 
 ***
 ***
 
-# 🇷🇺 Основная группа вепсского языка, там же есть и список литературы
-### 🇬🇧 Main Veps language VK-community, also has various books
+# 🇷🇺 Страница о вепсах и их языке на *Arcric Megapedia*
+### 🇬🇧 *Arcric Megapedia* page about Veps people and their language
+
+**In:** 🇷🇺, 🇬🇧 *(interface)*
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/f4c9cced-6511-4158-a108-272b9174c0c0)
+
+
+> 🔗: https://arctic-megapedia.com/en/veps/
+
+***
+***
+
+# 🇷🇺 Гугл Диск с литературой о вепсском
+### 🇬🇧 Google Drive with books about Veps
 
 **In:** 🇷🇺
 
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/dd81ec00-8a75-466b-8513-49cc17d53b15)
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/f659bcdc-0c73-40fe-968e-faa57714afb8)
 
-> 🔗 https://vk.com/vepsskiy_kray
 
-***
-***
-
-# 🇻 Audiokirj *"Nelľ dölod"*
-### 🇷🇺 Аудиокнига *"Nelľ dölod"*
-### 🇬🇧 Audiobook *"Nelľ dölod"*
-
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/dfc24787-bb4a-4c9e-b9bb-2b648e1982fa)
-
-> 📖 https://vk.com/wall-203920664_186
-
-***
-***
-
-# 🇻 Audiokirj *"Vepsän rahvahan sarnad"*
-### 🇷🇺 Аудиокнига *"Vepsän rahvahan sarnad"*
-### 🇬🇧 Audiobook *"Vepsän rahvahan sarnad"*
-
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/c2c92647-4ef3-4633-af5f-9fa87ef9f060)
-
-> 📖 https://vk.com/music/playlist/31238746_7_5135f2d2c648b57397
+> 📚: https://drive.google.com/drive/u/1/folders/14Anskfnv366qjrmzBvARh0Paj4qzshfq
 
 ***
 ***
 
 
-# 🇷🇺 Вепсский эпос "Virantanaz"
-### 🇪🇪 Vepsa eepos "Virantanaz"
-### 🇬🇧 Veps epic poem "Virantanaz" 
+# 🇷🇺 Бесплатные курсы **литературного** вепсского языка
+### 🇬🇧 Free courses of **Standard** Veps
 
-**In:** 🇷🇺 🇪🇪 🇫🇮 🇻
+**In:** 🇷🇺
 
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/9724812f-7c97-44fa-85a1-d6636f018dea)
-![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/f62274d7-e2fe-49cc-b6ac-98bd8c18999f)
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/91975647-7fc2-4dae-90f6-3ac292a821d6)
 
 
-> 📖 http://avtor.karelia.ru/elbibl/zaiceva/zaitseva_virantanaz/4/index.html
+> 🧑‍🏫: https://omamedia.ru/mediacenter/learn-lang/vepcskiy/
+
+***
+***
+
+# 🇷🇺 Корпус карельских и **вепсского** языков
+### 🇬🇧 Karelian and **Veps** languages corpus
+
+**In:** 🇷🇺, 🇬🇧, occasionally 🇫🇮
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/508a56ca-7c0d-489c-945f-c95c7d05358d)
+
+
+> 🔗 http://dictorpus.krc.karelia.ru/ru
 
 ***
 ***

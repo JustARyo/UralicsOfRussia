@@ -45,8 +45,8 @@ The branch of the most recognisable Uralic languages: Finnish and Estonian. Cons
 ## Ludic
 ![flag-ludic](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/690ea14e-9a8a-46af-8e92-68188097d953)
 
-- 📚 [Courses, teaching books and videos]()
-- 🍿 [Reading, watching and listening]()
+- 📚 [Courses, teaching books and videos](meta/\[Ludic\]%20Courses%20etc.md)
+- 🍿 [Reading, watching and listening](meta/\[Ludic\]%20Reading%20etc.md)
 
 ## Veps
 ![flag-veps](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/73578534-7631-4524-93c4-8607e9106e7c)

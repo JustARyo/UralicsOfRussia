@@ -26,3 +26,29 @@
 
 ***
 ***
+
+# 🇷🇺 Карельско-финско-русский онлайн словарь
+### 🇬🇧 Livvi-Finnish-Russian dictionary
+
+**In:** 🇷🇺, 🇫🇮
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/4a3661ef-81ce-4847-8490-400638271464)
+
+> 🔗: http://sanakniigu.onego.ru/index.php?lan=rus
+
+***
+***
+
+# 🇷🇺 Словари ливвиковского карельского
+### 🇬🇧 Livvi dictionaries
+
+**In:** 🇷🇺, 🇫🇮
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/c7d15e1a-136c-4b43-8d1c-b941f6110bfd)
+
+
+> 🔗: https://sanat.oahpa.no/rus/olo/
+
+***
+***
+

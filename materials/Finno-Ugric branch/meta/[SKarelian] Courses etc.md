@@ -12,3 +12,16 @@
 
 ***
 ***
+
+# 🇷🇺 Онлайн-словарь по **тверским** диалектам карельского
+### 🇬🇧 **Tver** Karelian online dictionary
+
+**In:** 🇷🇺
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/d4b360b0-801c-45bd-a0b1-d175fed4dcf8)
+
+
+> 🔗 https://punzhina.krc.karelia.ru/
+
+***
+***

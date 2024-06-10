@@ -54,3 +54,30 @@
 
 ***
 ***
+
+
+# 🇷🇺 Вепсско-английский и вепсско-финский словарь
+### 🇬🇧 Veps-English and Veps-finnish dictionary
+
+**In:** 🇫🇮, 🇪🇪
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/cab7bc78-4867-4e08-ae92-76a5bc04a88f)
+
+
+> 🔗: https://sanat.oahpa.no/vep/est/
+
+***
+***
+
+# 🇷🇺 Курс вепсского из 6 видеоуроков
+### 🇬🇧 Vepsian language course (6 lessons)
+
+**In:** 🇷🇺
+
+![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/d0bc55d9-b613-4b66-b052-daff9e06899f)
+
+
+> 🧑‍🏫: https://vk.com/wall-192783_42983
+
+***
+***

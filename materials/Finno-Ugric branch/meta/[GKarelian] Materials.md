@@ -36,7 +36,7 @@
 ![изображение](https://github.com/JustARyo/UralicsOfRussia/assets/31369233/508a56ca-7c0d-489c-945f-c95c7d05358d)
 
 
-> 🔗 https://kaino.kotus.fi/cgi-bin/kks/karjala.cgi
+> 🔗 http://dictorpus.krc.karelia.ru/ru
 
 ***
 ***
